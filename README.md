@@ -1,4 +1,5 @@
 # -database-course-2569-
+# Week 01 - Setup &amp; Explore DBMS Tools
 ## สมาชิกทีม
 - ชื่อ 1 ธนากร ทองจันทร์แก้ว 6840011029
 ## สิ่งที่ทำ
